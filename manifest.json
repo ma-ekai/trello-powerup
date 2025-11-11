@@ -1,0 +1,17 @@
+{
+  "name": "Mi Power-Up de Trello",
+  "description": "Ejemplo de Power-Up alojado en GitHub Pages.",
+  "author": "Marisa Aragués",
+  "capabilities": [
+    "board-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "https://ma-ekai.github.io/trello-powerup/"
+    }
+  },
+  "authorization": {
+    "type": "none"
+  },
+  "version": "1.0.0"
+}
